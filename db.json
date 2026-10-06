@@ -1,0 +1,86 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "rollNo": "101",
+      "name": "Aarav Sharma",
+      "course": "BCA",
+      "math": 85,
+      "science": 78,
+      "english": 92
+    },
+    {
+      "id": "2",
+      "rollNo": "102",
+      "name": "Priya Singh",
+      "course": "B.Sc",
+      "math": 76,
+      "science": 69,
+      "english": 80
+    },
+    {
+      "id": "3",
+      "rollNo": "103",
+      "name": "Rohan Kumar",
+      "course": "B.Com",
+      "math": 45,
+      "science": 52,
+      "english": 48
+    },
+    {
+      "id": "4",
+      "rollNo": "104",
+      "name": "Sneha Patel",
+      "course": "BCA",
+      "math": 92,
+      "science": 88,
+      "english": 85
+    },
+    {
+      "id": "5",
+      "rollNo": "105",
+      "name": "Vikram Mehta",
+      "course": "B.Sc",
+      "math": 61,
+      "science": 57,
+      "english": 65
+    },
+    {
+      "id": "6",
+      "rollNo": "106",
+      "name": "Ananya Gupta",
+      "course": "B.Com",
+      "math": 38,
+      "science": 42,
+      "english": 40
+    },
+    {
+      "id": "7",
+      "rollNo": "107",
+      "name": "Karan Verma",
+      "course": "BCA",
+      "math": 78,
+      "science": 81,
+      "english": 76
+    },
+    {
+      "rollNo": "108",
+      "name": "yashin",
+      "course": "B.Sc",
+      "math": 98,
+      "science": 96,
+      "english": 99,
+      "id": "LlIzGi9wI1k"
+    },
+    {
+      "rollNo": "109",
+      "name": "sumit",
+      "course": "BCA",
+      "math": 10,
+      "science": 25,
+      "english": 8,
+      "id": "Jfp10nDRrv8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
